@@ -4,7 +4,7 @@
 intelligence, many of which will include reinforcement learning, deep and otherwise, that
 will impact our lives in ways that are hard to predict." *Barto & Sutton (2018), see section on The Future of Artificial Intelligence*
 
-Resources on deep RL
+Resources on (deep) RL
 
 
 - Material from Claire Vernade: https://www.cvernade.com/teaching
