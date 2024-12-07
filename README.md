@@ -13,3 +13,4 @@ Resources on (deep) RL
 - Intro to deep RL by Vincent François-Lavet (2018): [slides](http://vincent.francois-l.be/slides_intro_deepRL.pdf)
 - Barto & Sutton (2018): [book](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - Albrecht, Christianos, and Schäfer (2024): [book](https://www.marl-book.com/)
+- Bandit book (2020): [book](https://tor-lattimore.com/downloads/book/book.pdf)
