@@ -14,3 +14,4 @@ Resources on (deep) RL
 - Barto & Sutton (2018): [book](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - Albrecht, Christianos, and Schäfer (2024): [book](https://www.marl-book.com/)
 - Bandit book (2020): [book](https://tor-lattimore.com/downloads/book/book.pdf)
+- David Silver's Lectures at UCL: https://www.davidsilver.uk/teaching/
