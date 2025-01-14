@@ -6,7 +6,7 @@ will impact our lives in ways that are hard to predict." *Barto & Sutton (2018),
 
 Resources on (deep) RL
 
-- Jakob N. Foerster's [thesis](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4/files/m65835df693543eaf51500929f71e84c2)
+- Jakob N. Foerster's [thesis](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4/files/m65835df693543eaf51500929f71e84c2) and [talk](https://www.youtube.com/watch?v=9qPhrEYIRF4)
 - Material from Claire Vernade: https://www.cvernade.com/teaching
 - Material from Emilie Kauffmann: https://emiliekaufmann.github.io/teaching.html
 - Material from Emmanuel Rachelson: https://github.com/borisbolliet/RLclass_MVA
