@@ -4,7 +4,7 @@
 intelligence, many of which will include reinforcement learning, deep and otherwise, that
 will impact our lives in ways that are hard to predict." *Barto & Sutton (2018), see section on The Future of Artificial Intelligence*
 
-Resources on (deep) RL
+Resources on (deep) Multi-Agent RL
 
 - Jakob N. Foerster's [thesis](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4/files/m65835df693543eaf51500929f71e84c2) and [talk](https://www.youtube.com/watch?v=9qPhrEYIRF4)
 - Material from Claire Vernade: https://www.cvernade.com/teaching
